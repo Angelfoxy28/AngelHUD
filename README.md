@@ -1,19 +1,21 @@
-THANKS FOR DOWNLOADING!!
+<em><h1 align="center">Angel HUD</h1></em>
 
-So, this is my first HUD that i made, i hope you like and if you see something that is a bit bad or worse let me know, have in mind that this is a beta.
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-green">
+   <img src="https://img.shields.io/badge/STATUS-EARLY%20ACCESS-blue">
+   </p>
 
-If you use this in your mod plz credit me with the things in "data/credits.txt" and the images in "images/credits"!!
+# Features
 
-Finally, if you want to have different healthbars just put the mode in the script ninth line and the credits in the third line
+- New Score, Health, Rating and RatinFC UI
+- Vertical Healthbar Mode
+- Two healthbars Mode
+- The Two Healthbars mode is like a new "mode" for the game
 
-Update 1.0.2
+# Changelog
+- Update 1.0.0
+    - Added two healthbars
+    - New Uis (Score, health, rating, etc.)
 
-> The mode n°2 now is like a new mode for the game instead of just the healthbar
-
-> The mode n°2 now is complete finally
-
-Future things to come
-
-> Credits could be inside the data folder
-
-> New healthbars
+ - Update 1.0.2
+   - Two healthbars mode complete
