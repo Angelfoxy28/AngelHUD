@@ -1,0 +1,3 @@
+Angel HUD
+Angelfoxy::angelfoxy::Developer of the Angel HUD::https://gamebanana.com/members/1831864::0xFFFF0000
+RamenDominoes::ramin::Creator of the RGBtoHEX in Ramen UI function used in HUD::https://gamebanana.com/members/2135195::0xFFF7CE35
